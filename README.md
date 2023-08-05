@@ -1,4 +1,5 @@
-# rails-app-docker-sqlite3 (not with Postgresql)
+# Dockerize Rails Application With Sqlite3 gem
+
 1 Create a file in root folder of rails-app with name `Dockerfile`
 
 2 paste the following code in `Dockerfile` file
